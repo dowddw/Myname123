@@ -1,0 +1,22 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>GiftHub - Student Profile</title>
+    <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+    <div class="profile-container">
+        <!-- Name with Pink Background -->
+        <div class="name-background">
+            <h1 class="student-name">Chayaporn Kiwthiang</h1>
+        </div>
+
+        <!-- Student Picture -->
+        <div class="image-container">
+            <img src="student-picture.jpg" alt="Chayaporn Kiwthiang" class="student-image">
+        </div>
+    </div>
+</body>
+</html>
